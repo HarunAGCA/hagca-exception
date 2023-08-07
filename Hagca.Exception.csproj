@@ -1,6 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <PackageId>Hagca.Exception</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Harun AĞCA</Authors>
+    <Company>Hagca</Company>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
